@@ -5,9 +5,13 @@ Dr. Link is a health-tech platform designed to help patients quickly discover an
 It goes beyond generic hospital directories by providing verified doctor profiles, comparative insights, and secure video consultations all within one unified platform.
 Core Features:
 •	Specialist Discovery: Find top doctors for critical conditions.
+
 •	Verified Profiles: Only verified specialists are onboarded.
+
 •	Video Consultations: Encrypted, optional recordings for transparency & fraud prevention.
+
 •	Transparent Wallet System: Fair refunds & dispute resolution for missed appointments.
+
 (The calling agent is an integral module of Dr. Link, designed to facilitate timely communication between patients and verified specialists.)
 
 **AI Calling agent:**
