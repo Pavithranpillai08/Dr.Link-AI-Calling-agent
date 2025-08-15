@@ -34,6 +34,10 @@ This project uses **[ElevenLabs](https://elevenlabs.io/)** for natural-sounding 
 **LLM Used:** *Gemini 2.0 Flash*
 
 ---
+### Dr. Link also includes
+The agent was made by our team using n8n:
+This module forms the automation backbone of Dr. Link, enabling users to search for doctors using natural language queries and instantly get relevant matches from a verified database, [Check it out here](https://github.com/Riniii09/drlink-n8n?tab=readme-ov-file)
+
 
 ## Future Scope
 
